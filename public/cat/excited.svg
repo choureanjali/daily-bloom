@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="excited black cat companion">
+  <ellipse cx="50" cy="91" rx="31" ry="4.5" fill="#542033" opacity=".10"/>
+  <!-- curled tail -->
+  <path d="M66 72 C83 79 92 65 86 53 C83 46 77 45 72 48 C69 50 70 55 75 56 C79 57 79 63 75 66 C72 68 68 67 65 65"
+        fill="#242124" stroke="#171417" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- body -->
+  <path d="M27 57 C27 45 34 39 50 39 C66 39 74 48 74 66 L74 79 C74 85 69 88 62 88 L37 88 C30 88 26 84 26 78 L26 65"
+        fill="#242124" stroke="#171417" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- paws -->
+  <path d="M39 75 L39 87 M57 75 L57 87" stroke="#111013" stroke-width="2.4" stroke-linecap="round"/>
+  <!-- ears and head -->
+  <path d="M26 39 L24 15 Q24 11 29 14 L42 23 Q50 20 58 23 L71 14 Q76 11 76 16 L74 40"
+        fill="#242124" stroke="#171417" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M29 18 L39 25 L30 29Z M70 18 L61 25 L69 29Z" fill="#9A5266"/>
+  <ellipse cx="50" cy="40" rx="25" ry="23" fill="#242124" stroke="#171417" stroke-width="2.4"/>
+  <path d="M36 42 L39 39 L42 42 L39 45Z M57 42 L60 39 L63 42 L60 45Z" fill="#F9F4EF"/>
+  <path d="M47 47 Q50 44 53 47 Q50 51 47 47Z" fill="#C88B9A"/>
+  <ellipse cx="50" cy="52" rx="4.5" ry="5.5" fill="#F5D7DE"/>
+  <!-- whiskers -->
+  <path d="M26 48 L15 47 M26 53 L16 55 M74 48 L85 47 M74 53 L84 55" stroke="#9B8D91" stroke-width="1.4" stroke-linecap="round"/>
+  <!-- burgundy bow and gold bell -->
+  <path d="M37 66 Q28 58 29 68 Q30 76 40 71 L50 68 L60 71 Q70 76 71 68 Q72 58 63 66 L52 68Z"
+        fill="#76283D" stroke="#542033" stroke-width="1.7" stroke-linejoin="round"/>
+  <circle cx="50" cy="69" r="4" fill="#C5A36A" stroke="#F0DCA8" stroke-width="1"/>
+  <path d="M49 67 L51 67" stroke="#FFF5D9" stroke-width="1.1" stroke-linecap="round"/>
+  <path d="M50 8 L52 14 L58 16 L52 18 L50 24 L48 18 L42 16 L48 14Z M80 45 L82 49 L86 50 L82 52 L80 56 L78 52 L74 50 L78 49Z" fill="#C5A36A"/>
+</svg>
